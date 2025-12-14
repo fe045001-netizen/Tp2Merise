@@ -1,7 +1,7 @@
 # Lab 2 — Gestion de stock (Sortie) : Dictionnaire, Règles, MCD, MLD
 # MCD
 ![URL](https://github.com/fe045001-netizen/Tp2Merise/blob/1fb5cb253bb88f60b069ba04a9a049e102bf5efe/MCD.png)
-MLD:
+ # MLD:
 ![URL](https://github.com/fe045001-netizen/Tp2Merise/blob/1fb5cb253bb88f60b069ba04a9a049e102bf5efe/MPD.png)
 
 ```sql
